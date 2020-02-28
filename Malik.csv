@@ -1,0 +1,51 @@
+Opponent (Name),Stadium,Team Bat First,4's,Out or Not out,Half Century,Runs
+Bangladesh,Gaddafi,Second,5,not out,True,58
+South Africa,Supersport Park,First,2,out,False,18
+South Africa,Wanderers Stadium,Second,1,out ,False,6
+South Africa,Newlands,Second,5,out,False,49
+New Zealand,Dubai International,First,3,out,False,19
+New Zealand,Dubai International,Second,0,out,False,10
+New Zealand,Sheikh Zayed Stadium,First,1,out,False,9
+Australia,Dubai International,First,2,out,False,18
+Australia,Dubai International,First,1,out,False,14
+Australia,Harare Sports Club,Second,3,not out,False,43
+Australia,Harare Sports Club,First,3,out,False,27
+Zimbabwe,Harare Sports Club,Second,2,not out,False,12
+Australia,Harare Sports Club,First,1,out,False,13
+Zimbabwe,Harare Sports Club,First,2,not out,False,27
+Scotland,Grange Cricket Club,First,1,not out,False,49
+Scotland,Grange Cricket Club,First,0,out,True,53
+West Indies,Lords,Second,1,out,False,12
+West Indies,National Stadium Karachi,Second,0,did not bat,False,-
+West Indies,National Stadium Karachi,First,2,not out,False,37
+West Indies,National Stadium Karachi,First,4,not out,True,51
+Sri Lanka,Gaddafi,First,5,out,False,9
+Sri Lanka,Sheikh Zayed Stadium,Second,0,out,False,42
+Sri Lanka,Sheikh Zayed Stadium,Second,4,not out,False,17
+ICC WORLD XI,Gaddafi,First,0,not out,False,39
+ICC WORLD XI,Gaddafi,First,1,out,False,38
+ICC WORLD XI,Gaddafi,First,4,out,False,9
+West Indies,Queen Park Oval,Second,1,not out,False,2
+West Indies,Queen Park Oval,First,0,out,False,28
+West Indies,Queen Park Oval,First,3,out,False,38
+West Indies,Kensington Oval,Second,3,not out,False,43
+West Indies,Sheikh Zayed Stadium,Second,3,not out,False,37
+West Indies,Dubai International,First,2,out,False,-
+West Indies,Dubai International,Second,0,did not bat,False,-
+England,Old Trafford,Second,0,did not bat,False,40
+Australia,Bindra Stadium,Second,2,not out,False,15
+New Zealand,Bindra Stadium,Second,0,not out,False,26
+India,Eden Gardens,First,3,out,False,15
+Bangladesh,Eden Gardens,First,2,not out,False,13
+Sri Lanka,Shere Bangla Stadium,Second,0,not out,False,41
+Bangladesh,Shere Bangla Stadium,First,2,out,True,63
+United Arab Emirates,Shere Bangla Stadium,First,1,not out,False,4
+India,Shere Bangla Stadium,First,1,out,False,14
+New Zealand,Westpac Stadium,Second,3,out,False,39
+New Zealand,Seddon Park,First,5,out,False,20
+New Zealand,Eden Park,First,1,out,True,75
+England,Sharjah Cricket Stadium,Second,8,out,False,26
+England,Dubai International,Second,1,out,False,15
+Zimbabwe,Harare Sports Club,Second,2,out,False,35
+Zimbabwe,Harare Sports Club,First,2,out,False,8
+Sri Lanka,R Premadasa Stadium,Second,0,out,False,46
