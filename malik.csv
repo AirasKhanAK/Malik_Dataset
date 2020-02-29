@@ -1,51 +1,51 @@
-Opponent (Name),Stadium,Team Bat First,4's,Out or Not out,Half Century
-Bangladesh,Gaddafi,Second,5,not out,TRUE
-South Africa,Supersport Park,First,2,out,FALSE
-South Africa,Wanderers Stadium,Second,1,out ,FALSE
-South Africa,Newlands,Second,5,out,FALSE
-New Zealand,Dubai International,First,3,out,FALSE
-New Zealand,Dubai International,Second,0,out,FALSE
-New Zealand,Sheikh Zayed Stadium,First,1,out,FALSE
-Australia,Dubai International,First,2,out,FALSE
-Australia,Dubai International,First,1,out,FALSE
-Australia,Harare Sports Club,Second,3,not out,FALSE
-Australia,Harare Sports Club,First,3,out,FALSE
-Zimbabwe,Harare Sports Club,Second,2,not out,FALSE
-Australia,Harare Sports Club,First,1,out,FALSE
-Zimbabwe,Harare Sports Club,First,2,not out,FALSE
-Scotland,Grange Cricket Club,First,1,not out,FALSE
-Scotland,Grange Cricket Club,First,0,out,TRUE
-West Indies,Lords,Second,1,out,FALSE
-West Indies,National Stadium Karachi,Second,0,did not bat,FALSE
-West Indies,National Stadium Karachi,First,2,not out,FALSE
-West Indies,National Stadium Karachi,First,4,not out,TRUE
-Sri Lanka,Gaddafi,First,5,out,FALSE
-Sri Lanka,Sheikh Zayed Stadium,Second,0,out,FALSE
-Sri Lanka,Sheikh Zayed Stadium,Second,4,not out,FALSE
-ICC WORLD XI,Gaddafi,First,0,not out,FALSE
-ICC WORLD XI,Gaddafi,First,1,out,FALSE
-ICC WORLD XI,Gaddafi,First,4,out,FALSE
-West Indies,Queen Park Oval,Second,1,not out,FALSE
-West Indies,Queen Park Oval,First,0,out,FALSE
-West Indies,Queen Park Oval,First,3,out,FALSE
-West Indies,Kensington Oval,Second,3,not out,FALSE
-West Indies,Sheikh Zayed Stadium,Second,3,not out,FALSE
-West Indies,Dubai International,First,2,out,FALSE
-West Indies,Dubai International,Second,0,did not bat,FALSE
-England,Old Trafford,Second,0,did not bat,FALSE
-Australia,Bindra Stadium,Second,2,not out,FALSE
-New Zealand,Bindra Stadium,Second,0,not out,FALSE
-India,Eden Gardens,First,3,out,FALSE
-Bangladesh,Eden Gardens,First,2,not out,FALSE
-Sri Lanka,Shere Bangla Stadium,Second,0,not out,FALSE
-Bangladesh,Shere Bangla Stadium,First,2,out,TRUE
-United Arab Emirates,Shere Bangla Stadium,First,1,not out,FALSE
-India,Shere Bangla Stadium,First,1,out,FALSE
-New Zealand,Westpac Stadium,Second,3,out,FALSE
-New Zealand,Seddon Park,First,5,out,FALSE
-New Zealand,Eden Park,First,1,out,TRUE
-England,Sharjah Cricket Stadium,Second,8,out,FALSE
-England,Dubai International,Second,1,out,FALSE
-Zimbabwe,Harare Sports Club,Second,2,out,FALSE
-Zimbabwe,Harare Sports Club,First,2,out,FALSE
-Sri Lanka,R Premadasa Stadium,Second,0,out,FALSE
+Opponent (Name),Stadium,Team Bat First,Match condition,Out or Not out,Half Century
+Bangladesh,Gaddafi,Second,Day,not out,TRUE
+South Africa,Supersport Park,First,Night,out,FALSE
+South Africa,Wanderers Stadium,Second,Day,out ,FALSE
+South Africa,Newlands,Second,Day,out,FALSE
+New Zealand,Dubai International,First,Night,out,FALSE
+New Zealand,Dubai International,Second,Night,out,FALSE
+New Zealand,Sheikh Zayed Stadium,First,Night,out,FALSE
+Australia,Dubai International,First,Day,out,FALSE
+Australia,Dubai International,First,Night,out,FALSE
+Australia,Harare Sports Club,Second,Night,not out,FALSE
+Australia,Harare Sports Club,First,Day,out,FALSE
+Zimbabwe,Harare Sports Club,Second,Day,not out,FALSE
+Australia,Harare Sports Club,First,Day,out,FALSE
+Zimbabwe,Harare Sports Club,First,Day,not out,FALSE
+Scotland,Grange Cricket Club,First,Day,not out,FALSE
+Scotland,Grange Cricket Club,First,Day,out,TRUE
+West Indies,Lords,Second,Night,out,FALSE
+West Indies,National Stadium Karachi,Second,Night,did not bat,FALSE
+West Indies,National Stadium Karachi,First,Night,not out,FALSE
+West Indies,National Stadium Karachi,First,Night,not out,TRUE
+Sri Lanka,Gaddafi,First,Night,out,FALSE
+Sri Lanka,Sheikh Zayed Stadium,Second,Night,out,FALSE
+Sri Lanka,Sheikh Zayed Stadium,Second,Night,not out,FALSE
+ICC WORLD XI,Gaddafi,First,Night,not out,FALSE
+ICC WORLD XI,Gaddafi,First,Night,out,FALSE
+ICC WORLD XI,Gaddafi,First,Night,out,FALSE
+West Indies,Queen Park Oval,Second,Day,not out,FALSE
+West Indies,Queen Park Oval,First,Day,out,FALSE
+West Indies,Queen Park Oval,First,Day,out,FALSE
+West Indies,Kensington Oval,Second,Day,not out,FALSE
+West Indies,Sheikh Zayed Stadium,Second,Night,not out,FALSE
+West Indies,Dubai International,First,Night,out,FALSE
+West Indies,Dubai International,Second,Night,did not bat,FALSE
+England,Old Trafford,Second,Night,did not bat,FALSE
+Australia,Bindra Stadium,Second,Night,not out,FALSE
+New Zealand,Bindra Stadium,Second,Night,not out,FALSE
+India,Eden Gardens,First,Night,out,FALSE
+Bangladesh,Eden Gardens,First,Night,not out,FALSE
+Sri Lanka,Shere Bangla Stadium,Second,Night,not out,FALSE
+Bangladesh,Shere Bangla Stadium,First,Night,out,TRUE
+United Arab Emirates,Shere Bangla Stadium,First,Night,not out,FALSE
+India,Shere Bangla Stadium,First,Night,out,FALSE
+New Zealand,Westpac Stadium,Second,Night,out,FALSE
+New Zealand,Seddon Park,First,Night,out,FALSE
+New Zealand,Eden Park,First,Night,out,TRUE
+England,Sharjah Cricket Stadium,Second,Night,out,FALSE
+England,Dubai International,Second,Night,out,FALSE
+Zimbabwe,Harare Sports Club,Second,Day,out,FALSE
+Zimbabwe,Harare Sports Club,First,Day,out,FALSE
+Sri Lanka,R Premadasa Stadium,Second,Night,out,FALSE
