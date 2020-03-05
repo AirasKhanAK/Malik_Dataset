@@ -1,0 +1,57 @@
+﻿PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Shoaib Malik,24/01/2020,T20,Bangladesh,Bangladesh,Bangladesh,Pakistan,Pakistan,Bad,Bad,Bad,Sunny,Flat,Out,4,58
+Shoaib Malik,6/2/2019,T20,South Africa,South Africa,Pakistan,South Africa,South Africa,Bad,Bad,Bad,Cloudy,Grassy,Out,4,18
+Shoaib Malik,3/2/2019,T20,South Africa,Pakistan,South Africa,Pakistan,South Africa,Good,Good,Bad,Thunderstorm,Flat,Out,5,6
+Shoaib Malik,1/2/2019,T20,South Africa,Pakistan,South Africa,Pakistan,South Africa,Bad,Bad,Bad,Cloudy,Grassy,Out,4,49
+Shoaib Malik,4/11/2018,T20,New Zealand,Pakistan,Pakistan,New Zealand,Pakistan,Bad,Bad,Bad,Cloudy,Flat,Out,4,19
+Shoaib Malik,2/11/2018,T20,New Zealand,New Zealand,New Zealand,Pakistan,Pakistan,Bad,Bad,Bad,Cloudy,Flat,Out,5,10
+Shoaib Malik,31/10/2018,T20,New Zealand,Pakistan,Pakistan,New Zealand,Pakistan,Bad,Bad,Bad,Clear,Flat,Out,6,8
+Shoaib Malik,28/10/2018,T20,Australia,Pakistan,Pakistan,Australia,Pakistan,Bad,Good,Bad,Cloudy,Flat,Out,4,18
+Shoaib Malik,26/10/2018,T20,Australia,Pakistan,Pakistan,Australia,Pakistan,Good,Good,Good,Cloudy,Flat,In,4,14
+Shoaib Malik,8/7/2018,T20,Australia,Pakistan,Australia,Pakistan,Non,Good,Bad,Good,Clear,Grassy,In,5,43
+Shoaib Malik,5/7/2018,T20,Australia,Australia,Pakistan,Australia,Non,Bad,Bad,Good,Sunny,Flat,In,5,27
+Shoaib Malik,4/7/2018,T20,Zimbabwe,Pakistan,Zimbabwe,Pakistan,Zimbabwe,Bad,Good,Good,Cloudy,Flat,In,5,12
+Shoaib Malik,2/7/2018,T20,Australia,Australia,Pakistan,Australia,Non,Good,Good,Good,Sunny,Flat,In,5,13
+Shoaib Malik,1/7/2018,T20,Zimbabwe,Zimbabwe,Pakistan,Zimbabwe,Zimbabwe,Good,Good,Good,Sunny,Flat,In,5,37
+Shoaib Malik,13/06/2018,T20,Scotland,Pakistan,Scotland,Pakistan,Scotland,Good,Bad,Good,Cloudy,Grassy,In,5,49
+Shoaib Malik,12/6/2018,T20,Scotland,Pakistan,Scotland,Pakistan,Scotland,Bad,Bad,Good,Cloudy,Grassy,In,5,53
+Shoaib Malik,31/05/2018,T20,West Indies,ICC World XI,West Indies,ICC World XI,Non,Good,Good,Good,Cloudy,Grassy,In,5,12
+Shoaib Malik,3/4/2018,T20,West Indies,West Indies,Pakistan,West Indies,Pakistan,Bad,Good,Good,Clear,Flat,In,5,-
+Shoaib Malik,2/4/2018,T20,West Indies,Pakistan,West Indies,Pakistan,Pakistan,Good,Good,Good,Cloudy,Flat,In,5,17
+Shoaib Malik,1/4/2018,T20,West Indies,West Indies,West Indies,Pakistan,Pakistan,Good,Good,Good,Clear,Flat,In,5,37
+Shoaib Malik,29/10/2017,T20,Sri Lanka,Sri Lanka,Sri Lanka,Pakistan,Pakistan,Bad,Bad,Good,Clear,Flat,In,4,51
+Shoaib Malik,27/10/2017,T20,Sri Lanka,Pakistan,Pakistan,Sri Lanka,Pakistan,Good,Good,Bad,Clear,Flat,Out,4,9
+Shoaib Malik,26/10/2017,T20,Sri Lanka,Pakistan,Pakistan,Sri Lanka,Pakistan,Bad,Good,Bad,Clear,Flat,Out,4,42
+Shoaib Malik,15/09/2017,T20,ICC World XI,ICC World XI,ICC World XI,Pakistan,Pakistan,Good,Good,Good,Clear,Dry,In,4,17
+Shoaib Malik,13/09/2017,T20,ICC World XI,Pakistan,ICC World XI,Pakistan,Pakistan,Good,Bad,Good,Clear,Dry,In,4,39
+Shoaib Malik,12/9/2017,T20,ICC World XI,ICC World XI,ICC World XI,Pakistan,Pakistan,Bad,Bad,Good,Clear,Dry,In,4,38
+Shoaib Malik,2/4/2017,T20,West Indies,Pakistan,Pakistan,West Indies,West Indies,Bad,Bad,Good,Cloudy,Flat,In,4,9
+Shoaib Malik,1/4/2017,T20,West Indies,Pakistan,West Indies,Pakistan,West Indies,Good,Good,Good,Clear,Flat,In,5,2
+Shoaib Malik,30/03/2017,T20,West Indies,West Indies,West Indies,Pakistan,West Indies,Good,Good,Good,Cloudy,Flat,In,4,28
+Shoaib Malik,26/03/2017,T20,West Indies,Pakistan,Pakistan,West Indies,West Indies,Good,Good,Good,Cloudy,Flat,In,5,38
+Shoaib Malik,27/09/2016,T20,West Indies,Pakistan,Pakistan,West Indies,Pakistan,Good,Good,Good,,,In,4,43
+Shoaib Malik,24/09/2016,T20,West Indies,West Indies,West Indies,Pakistan,Pakistan,Good,Good,Good,,,In,4,37
+Shoaib Malik,23/09/2016,T20,West Indies,Pakistan,Pakistan,West Indies,Pakistan,Good,Good,Good,,,In,5,-
+Shoaib Malik,7/9/2016,T20,England,England,Pakistan,England,England,Good,Good,Bad,,,Out,5,-
+Shoaib Malik,25/03/2016,T20,Australia,Australia,Pakistan,Australia,Non,Bad,Bad,Good,,,In,6,40
+Shoaib Malik,22/03/2016,T20,New Zealand,New Zealand,Pakistan,New Zealand,Non,Good,Bad,Good,,,In,6,15
+Shoaib Malik,19/03/2016,T20,India,India,India,Pakistan,India,Bad,Bad,Bad,,,Out,5,26
+Shoaib Malik,16/03/2016,T20,Bangladesh,Pakistan,Bangladesh,Pakistan,Non,Bad,Good,Good,,,In,6,15
+Shoaib Malik,4/3/2016,T20,Sri Lanka,Pakistan,Pakistan,Sri Lanka,Non,Good,Good,Good,,,In,5,13
+Shoaib Malik,2/3/2016,T20,Bangladesh,Pakistan,Bangladesh,Pakistan,Bangladesh,Good,Good,Good,,,In,5,41
+Shoaib Malik,29/02/2016,T20,United Arab Emirates,United Arab Emirates,United Arab Emirates,Pakistan,Non,Bad,Bad,Good,,,In,6,63
+Shoaib Malik,27/02/2016,T20,India,India,India,Pakistan,Non,Bad,Bad,Good,,,In,5,4
+Shoaib Malik,22/01/2016,T20,New Zealand,Pakistan,Pakistan,New Zealand,New Zeland,Good,Good,Good,,,In,4,14
+Shoaib Malik,17/01/2016,T20,New Zealand,Pakistan,New Zealand,Pakistan,New Zeland,Bad,Good,Good,,,In,4,39
+Shoaib Malik,15/01/2016,T20,New Zealand,New Zealand,New Zealand,Pakistan,New Zeland,Good,Good,Good,,,In,4,20
+Shoaib Malik,30/11/2015,T20,England,England,Pakistan,England,Pakistan,Good,Good,Bad,,,Out,4,75
+Shoaib Malik,27/11/2015,T20,England,England,Pakistan,England,Pakistan,Bad,Bad,Bad,,,Out,4,26
+Shoaib Malik,29/09/2015,T20,Zimbabwe,Pakistan,Pakistan,Zimbabwe,Zimbabwe,Good,Good,Bad,,,Out,4,15
+Shoaib Malik,27/09/2015,T20,Zimbabwe,Pakistan,Zimbabwe,Pakistan,Zimbabwe,Bad,Bad,Bad,,,Out,4,35
+Shoaib Malik,1/8/2015,T20,Sri Lanka,Sri Lanka,Pakistan,Sri Lanka,Sri Lanka,Good,Bad,Bad,,,Out,4,8
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
